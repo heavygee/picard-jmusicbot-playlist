@@ -1,0 +1,9 @@
+{
+    "name": "Generate JMusicBot Playlist",
+    "version": "0.1",
+    "description": "Automatically generate a playlist for JMusicBot when saving an album with Docker-friendly paths.",
+    "author": "HeavyGee",
+    "license": "MIT",
+    "picard_version": ">=2.0",
+    "category": "Other"
+}
